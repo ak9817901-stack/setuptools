@@ -1944,4 +1944,5 @@ History
  * Namespace package manipulation is now protected by the Python import lock.
 
 0.3a1
+
  * Initial release.
